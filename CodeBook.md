@@ -1,4 +1,4 @@
-#Code Book for Getting and Cleaning Data Course Project
+#Code Book for Getting and Cleaning Data Course Project  
 This file describes the variables, the data, and any transformations or work that is performed to clean up the data.  
 
 The variables used in the code of run_analysis file are:-
